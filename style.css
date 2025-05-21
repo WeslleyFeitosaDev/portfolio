@@ -58,7 +58,7 @@ body{
     height: 650px;
 }
 
-imagem img{
+imagem {
     width: 300px;
 
     background-color: var(--cor4);
