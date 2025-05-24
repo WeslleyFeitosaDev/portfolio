@@ -58,9 +58,8 @@ body{
     height: 650px;
 }
 
-.imagem{
-    width: 400px;
-    height: 400px;
+.imagem img{
+    width: 350px;
     background-color: var(--cor4);
     border-radius: 100%;
 }
