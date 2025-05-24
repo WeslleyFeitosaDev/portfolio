@@ -144,10 +144,12 @@ body{
 }
 
 .imagem_sobre_mim{
-    width: 350px;
-    height: 500px;
-    border-radius: 10px;
-    background-color: var(--cor4);
+    display: flex;
+    justify-content: center;
+}
+
+.imagem_sobre_mim img{
+    width: 450px;
 }
 
 .sessao_habilidades{
