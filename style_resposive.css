@@ -23,7 +23,7 @@
 }
 
 
-@media (max-width :800px){
+@media (max-width :900px){
     .sesao_inicio{
         flex-direction: column !important;
         padding: 0px;
