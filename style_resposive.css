@@ -149,21 +149,25 @@
     }
     
     
-
+    .imagem_sobre_mim img{
+        width: 300px;
+    }
     .habilidades>div{
         width: 160px;
         height: 160px;
     }
     .sessao_habilidades{
-
+        
         height: 550px;
         position: relative;
     }
-
-    .titulo_habilidades{
-        position: absolute;
-        top: 20px;
+    .sessao_sobremim{
+        background-color: violet;
     }
+    .sessao_contado{
+        background-color: aqua;
+    }
+   
 }
 
 
@@ -192,6 +196,11 @@
 
     .textos_sobre_mim p{
         font-size: 12px;
+    }
+
+    .habilidades>div{
+        width: 120px;
+        height: 120px;
     }
     
 
