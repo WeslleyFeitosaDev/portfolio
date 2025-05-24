@@ -56,10 +56,13 @@
     }
 
     .imagem{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .imagem img{
+        width: 350px;
        
-        width: 50%;
-        height: 80%;
-        
     }
 
     
