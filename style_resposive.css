@@ -41,6 +41,10 @@
         max-width: 90% !important;
     }
 
+    .imagem_sobre_mim{
+        width: 100%;
+    }
+
     .textos_redes_sociais h2{
         font-size: 40px;
     }
@@ -71,9 +75,7 @@
         font-size: 18px;
     }
 
-    .imagem_sobre_mim{
-        width: 70%;
-    }
+    
     .sessao_habilidades{
         height: 850px;
     }
@@ -100,22 +102,10 @@
 
 }
 
-@media (max-width :750px){
-    .imagem{
-        width: 50%;
-        height: 60%;
 
-    }
-
-    
-}
 
 
 @media (max-width :600px){
-    .imagem{
-        width: 60%;
-        height: 55%;
-    }
     .sesao_inicio{
         flex-direction: column !important;
         padding: 0px;
@@ -162,15 +152,7 @@
     .sessao_sobremim{
         padding: 25px;
     }
-    .imagem_sobre_mim{
-        width: 70% !important;
-        height: 50%;
-    }
-
-    .imagem{
-        width: 65%;
-        height: 50%;
-    }
+    
 
     .habilidades>div{
         width: 150px;
@@ -194,12 +176,7 @@
 
         padding: 0;
     }
-    .imagem{
-        margin-top: 20px;
-        width: 300px !important;
-        height: 300px;
-        border-radius: 50%;
-    }
+
 
     .textos_redes_sociais{
         height: 50% !important;
@@ -220,9 +197,6 @@
     .textos_sobre_mim p{
         font-size: 12px;
     }
-    .imagem_sobre_mim{
-        width: 70% !important;
-        height: 50%;
-    }
+    
 
 }
