@@ -60,8 +60,6 @@ body{
 
 .imagem img{
     width: 350px;
-    background-color: var(--cor4);
-    border-radius: 100%;
 }
 
 
