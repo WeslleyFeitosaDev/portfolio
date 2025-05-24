@@ -23,7 +23,7 @@
 }
 
 
-@media (max-width :900px){
+@media (max-width :800px){
     .sesao_inicio{
         flex-direction: column !important;
         padding: 0px;
@@ -39,10 +39,6 @@
     .textos_sobre_mim{
         
         max-width: 90% !important;
-    }
-
-    .imagem_sobre_mim{
-        width: 100%;
     }
 
     .textos_redes_sociais h2{
@@ -75,7 +71,6 @@
         font-size: 18px;
     }
 
-    
     .sessao_habilidades{
         height: 850px;
     }
@@ -106,6 +101,7 @@
 
 
 @media (max-width :600px){
+   
     .sesao_inicio{
         flex-direction: column !important;
         padding: 0px;
@@ -153,6 +149,7 @@
         padding: 25px;
     }
     
+    
 
     .habilidades>div{
         width: 150px;
@@ -176,7 +173,7 @@
 
         padding: 0;
     }
-
+    
 
     .textos_redes_sociais{
         height: 50% !important;
