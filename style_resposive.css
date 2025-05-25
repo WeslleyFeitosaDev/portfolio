@@ -1,9 +1,42 @@
 @media (max-width: 900px) {
+    #bnt_de_meu_header{
+        display: block;
+        font-size: 40px;
+        display: flex;
+        align-items: center;
+        color: #1D3557;
+        cursor: pointer;
+    }
+
+    .header{
+        padding: 5px 2%;
+    }
+    .links{
+        position: absolute;
+        z-index: 1;
+        top: 100%;
+        left: -100%;
+        width: 100%;
+        padding: 3rem 4%;
+        background-color: #F1FAEE;
+        transition: .25s ease;
+        transition-delay: .25s;
+    }
+
+    .links.links_active{
+        left: 0;
+        transition-delay: 0s;
+    }
+
+    .links a{
+        display: block;
+        margin: 3rem 0px;
+    }
     .sesao_inicio {
         flex-direction: column;
         width: 100%;
         height: auto;
-        padding: 20px 5%;
+        padding: 50px 5%;
         text-align: center;
     }
 
@@ -66,15 +99,7 @@
         max-width: 400px;
     }
 
-    .header {
-        flex-direction: column;
-        padding: 0;
-    }
 
-    .links {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 10px;
-    }
+
+    
 }
