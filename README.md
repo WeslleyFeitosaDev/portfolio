@@ -1,4 +1,4 @@
-# Portifolio
+# Portfólio
 Meu portifolio 🧑‍💻
 
 <div class="print">
