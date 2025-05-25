@@ -5,9 +5,5 @@ let navbarlinks=document.getElementById("navbarlinks")
 bnt_de_meu_header.addEventListener("click",()=>{
     bnt_de_meu_header.classList.toggle("bx-x")
     navbarlinks.classList.toggle("links_active")
-<<<<<<< Updated upstream
-    
-    
-=======
->>>>>>> Stashed changes
+
 })
