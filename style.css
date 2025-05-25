@@ -35,6 +35,10 @@ body{
     cursor: pointer;
 }
 
+#bnt_de_meu_header{
+    display: none;
+}
+
 .links a{
     font-size: 18px;
     margin: 20px;
