@@ -1,0 +1,80 @@
+@media (max-width: 900px) {
+    .sesao_inicio {
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+        padding: 20px 5%;
+        text-align: center;
+    }
+
+    .imagem {
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .imagem img {
+        width: 80%;
+        max-width: 400px;
+    }
+
+    .textos_redes_sociais {
+        width: 100%;
+        height: auto;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .textos {
+        width: 100%;
+    }
+
+    .textos h2 {
+        font-size: 30px;
+    }
+
+    .textos p {
+        font-size: 11px;
+    }
+
+    .redes_sociais {
+        position: static;
+        margin-top: 20px;
+        width: 80%;
+    }
+
+    .sessao_sobremim {
+        flex-direction: column;
+        height: auto;
+        gap: 30px;
+        padding: 20px 5%;
+    }
+
+    .textos_sobre_mim {
+        max-width: 100%;
+        
+    }
+
+    .textos_sobre_mim p{
+        font-size: 11px;
+    }
+
+
+    .imagem_sobre_mim img {
+        width: 80%;
+        max-width: 400px;
+    }
+
+    .header {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .links {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+}
