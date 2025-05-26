@@ -6,15 +6,15 @@ Meu portifolio 🧑‍💻
     <img src="imagens/readme/QRcode.png" width="300px" 
     <br>
     <h2>Sesão principal 📂</h2>
-    <img src="imagens/readme/print2.PNG">
+    <img src="imagens/readme/print1.PNG">
     <br>
     <h2>Sesão Sobre mim 🙋‍♂️</h2>
-    <img src="imagens/readme/print3.PNG">
+    <img src="imagens/readme/print2.PNG">
     <br>
     <h2>Sesão Habilidades 🚀</h2>
-    <img src="imagens/readme/print4.PNG">
+    <img src="imagens/readme/print3.PNG">
     <br>
     <h2>Sesão Contatos 📱</h2>
-    <img src="imagens/readme/print5.PNG">
+    <img src="imagens/readme/print4.PNG">
     <br>
 </div>
